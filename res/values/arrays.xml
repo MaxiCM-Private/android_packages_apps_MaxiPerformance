@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="prefs_themes">
+		<item>@string/prefs_theme_dark</item>
+		<item>@string/prefs_theme_light</item>
+		<item>@string/prefs_theme_light_and_dark</item>
+		<item>@string/prefs_theme_material</item>
+	</string-array>
+	<string-array name="prefs_themes_values">
+		<item>THEME_DARK</item>
+		<item>THEME_LIGHT</item>
+		<item>THEME_LIGHT_DARK</item>
+		<item>THEME_MATERIAL</item>
+	</string-array>
+
+</resources>
